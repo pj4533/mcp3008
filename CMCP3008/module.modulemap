@@ -1,0 +1,5 @@
+module CMCP3008 {
+  header "MCP3008.h"
+  link "MCP3008"
+  export *
+}

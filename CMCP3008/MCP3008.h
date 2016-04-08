@@ -1,0 +1,1 @@
+int readInput(char *device, int adcnum);
